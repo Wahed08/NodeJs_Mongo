@@ -1,0 +1,9 @@
+{
+    "jshint.excludePath": "",
+    "jshint.exclude": {
+    
+    },
+    "jshint.options": {
+        "esversion": 6
+    }
+}

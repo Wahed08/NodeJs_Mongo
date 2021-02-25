@@ -12,11 +12,11 @@ const schema = new Schema({
     },
     password:{
         type: String,
-        required:true
+        required: true
     },
     date:{
         type: Date,
-        required: Date.now
+        default: Date.now
     }
 
 },{timestamps: true});
